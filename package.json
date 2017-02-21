@@ -1,0 +1,69 @@
+{
+  "author": {
+    "name": "Victor Grishchenko",
+    "email": "victor.grishchenko@gmail.com"
+  },
+  "browser": "lib/Html5Client.js",
+  "bugs": {
+    "url": "https://github.com/gritzko/swarm/issues"
+  },
+  "contributors": [
+    {
+      "name": "Aleksei Balandin",
+      "email": "aleksisha@gmail.com"
+    },
+    {
+      "name": "Andrey Popp",
+      "email": "8mayday@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "ws": "~0.4.31"
+  },
+  "description": "_reactive data sync lib: replicated model for your web app_",
+  "devDependencies": {
+    "browserify": "",
+    "istanbul": "^0.3.2",
+    "jshint": "",
+    "leveldown": "1.0.0",
+    "nopt": "",
+    "qunit": "^0.7.5"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "5d852f155406e1b9c1162e4a6db8e7c1fa46769e",
+    "tarball": "https://registry.npmjs.org/swarm/-/swarm-0.3.25.tgz"
+  },
+  "email": "swarm.js@gmail.com",
+  "files": [
+    "lib/*.js",
+    "dist/*.js",
+    "Makefile",
+    "LICENSE"
+  ],
+  "gitHead": "b945ea204aed653c762e8667e40a1047df2054c2",
+  "homepage": "http://github.com/gritzko/swarm",
+  "license": "MIT",
+  "main": "lib/NodeServer.js",
+  "maintainers": [
+    {
+      "name": "gritzko",
+      "email": "victor.grishchenko@gmail.com"
+    },
+    {
+      "name": "abalandin",
+      "email": "aleksisha@gmail.com"
+    }
+  ],
+  "name": "parvi",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gritzko/swarm.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "version": "0.3.25"
+}
